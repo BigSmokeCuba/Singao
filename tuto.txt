@@ -2,7 +2,7 @@
 Comandos del bot:
 ——————————————————————————
 1-
-/myuser : Para poder ver los datos actualmente configurados.
+/info : Para poder ver los datos actualmente configurados.
 
 2-
 Para configuración de Moodle
