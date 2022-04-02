@@ -38,5 +38,5 @@ Páginas webs soportadas:
 Si quieres subir al bot un archivo de Telegram, use los bots @tg_file_link_bot , @Files2LinkProBot , @FileToLink_yte_bot , @filetolinkprobot y @Link4FilesBot reenviándole el archivo,
 y después le envía el link al bot y empezará a descargar.
 
-Bot administrado por @ariandc03
-Corrección por @nomamepincheculero
+Bot administrado por @BigSmoke19
+
