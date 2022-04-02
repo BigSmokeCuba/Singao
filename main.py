@@ -443,7 +443,7 @@ def onmessage(update,bot:ObigramClient):
 
         if '/start' in msgText:
             start_msg = '✅ Bot Iniciado ✅\n'
-            start_msg += '❕Usa /help para mostrar la ayuda.\n'
+            start_msg += '❕Usa /tutorial para mostrar la ayuda.\n'
             bot.editMessageText(message,start_msg)
 
         elif '/files' == msgText and user_info['cloudtype']=='moodle':
